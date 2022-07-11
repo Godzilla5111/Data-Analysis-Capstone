@@ -1,5 +1,3 @@
-# Non Uniformity in Movie Ratings - A case Study
-
 # Project - Non Uniformity in Movie Ratings - A Case Study
 
 ## Overview
